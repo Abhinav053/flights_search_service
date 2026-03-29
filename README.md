@@ -311,8 +311,8 @@ Edit `src/config/config.json` with your database credentials:
 {
   "development": {
     "username": "root",        # Your MySQL username
-    "password": "root",        # Your MySQL password
-    "database": "flights_db",  # Database name
+    "password": "*****",        # Your MySQL password
+    "database": "your_db_name",  # Database name
     "host": "127.0.0.1",       # Database host
     "dialect": "mysql"         # Database type
   },
